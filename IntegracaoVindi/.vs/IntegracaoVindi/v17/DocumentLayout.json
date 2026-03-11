@@ -1,0 +1,135 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\personal\\P\u00F3s Gardua\u00E7\u00E3o - Arquitetura de Software\\ProjetoAplicado\\Backend\\IntegracaoVindi\\IntegracaoVindi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D41C29BE-AE26-46B5-82F3-5C8D6D06D59B}|IntegracaoVindi.csproj|d:\\personal\\p\u00F3s gardua\u00E7\u00E3o - arquitetura de software\\projetoaplicado\\backend\\integracaovindi\\integracaovindi\\services\\vindi.api\\customers\\customerapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D41C29BE-AE26-46B5-82F3-5C8D6D06D59B}|IntegracaoVindi.csproj|solutionrelative:services\\vindi.api\\customers\\customerapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D41C29BE-AE26-46B5-82F3-5C8D6D06D59B}|IntegracaoVindi.csproj|d:\\personal\\p\u00F3s gardua\u00E7\u00E3o - arquitetura de software\\projetoaplicado\\backend\\integracaovindi\\integracaovindi\\services\\filters\\customerfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D41C29BE-AE26-46B5-82F3-5C8D6D06D59B}|IntegracaoVindi.csproj|solutionrelative:services\\filters\\customerfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D41C29BE-AE26-46B5-82F3-5C8D6D06D59B}|IntegracaoVindi.csproj|d:\\personal\\p\u00F3s gardua\u00E7\u00E3o - arquitetura de software\\projetoaplicado\\backend\\integracaovindi\\integracaovindi\\services\\builders\\querybuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D41C29BE-AE26-46B5-82F3-5C8D6D06D59B}|IntegracaoVindi.csproj|solutionrelative:services\\builders\\querybuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36F97B97-142D-463D-9651-876A17E5A48B}|..\\IntegracaoVindi.Tests\\IntegracaoVindi.Tests.csproj|d:\\personal\\p\u00F3s gardua\u00E7\u00E3o - arquitetura de software\\projetoaplicado\\backend\\integracaovindi\\integracaovindi.tests\\customers\\customertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D41C29BE-AE26-46B5-82F3-5C8D6D06D59B}|IntegracaoVindi.csproj|d:\\personal\\p\u00F3s gardua\u00E7\u00E3o - arquitetura de software\\projetoaplicado\\backend\\integracaovindi\\integracaovindi\\services\\vindi.api\\helpers\\endpointhelpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D41C29BE-AE26-46B5-82F3-5C8D6D06D59B}|IntegracaoVindi.csproj|solutionrelative:services\\vindi.api\\helpers\\endpointhelpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D41C29BE-AE26-46B5-82F3-5C8D6D06D59B}|IntegracaoVindi.csproj|d:\\personal\\p\u00F3s gardua\u00E7\u00E3o - arquitetura de software\\projetoaplicado\\backend\\integracaovindi\\integracaovindi\\services\\vindi.api\\vindiapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D41C29BE-AE26-46B5-82F3-5C8D6D06D59B}|IntegracaoVindi.csproj|solutionrelative:services\\vindi.api\\vindiapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CustomerTests.cs",
+              "DocumentMoniker": "D:\\personal\\P\u00F3s Gardua\u00E7\u00E3o - Arquitetura de Software\\ProjetoAplicado\\Backend\\IntegracaoVindi\\IntegracaoVindi.Tests\\Customers\\CustomerTests.cs",
+              "RelativeDocumentMoniker": "..\\IntegracaoVindi.Tests\\Customers\\CustomerTests.cs",
+              "ToolTip": "D:\\personal\\P\u00F3s Gardua\u00E7\u00E3o - Arquitetura de Software\\ProjetoAplicado\\Backend\\IntegracaoVindi\\IntegracaoVindi.Tests\\Customers\\CustomerTests.cs",
+              "RelativeToolTip": "..\\IntegracaoVindi.Tests\\Customers\\CustomerTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-01T20:34:48.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomerFilter.cs",
+              "DocumentMoniker": "D:\\personal\\P\u00F3s Gardua\u00E7\u00E3o - Arquitetura de Software\\ProjetoAplicado\\Backend\\IntegracaoVindi\\IntegracaoVindi\\Services\\Filters\\CustomerFilter.cs",
+              "RelativeDocumentMoniker": "Services\\Filters\\CustomerFilter.cs",
+              "ToolTip": "D:\\personal\\P\u00F3s Gardua\u00E7\u00E3o - Arquitetura de Software\\ProjetoAplicado\\Backend\\IntegracaoVindi\\IntegracaoVindi\\Services\\Filters\\CustomerFilter.cs",
+              "RelativeToolTip": "Services\\Filters\\CustomerFilter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAF8AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-01T18:33:49.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "QueryBuilder.cs",
+              "DocumentMoniker": "D:\\personal\\P\u00F3s Gardua\u00E7\u00E3o - Arquitetura de Software\\ProjetoAplicado\\Backend\\IntegracaoVindi\\IntegracaoVindi\\Services\\Builders\\QueryBuilder.cs",
+              "RelativeDocumentMoniker": "Services\\Builders\\QueryBuilder.cs",
+              "ToolTip": "D:\\personal\\P\u00F3s Gardua\u00E7\u00E3o - Arquitetura de Software\\ProjetoAplicado\\Backend\\IntegracaoVindi\\IntegracaoVindi\\Services\\Builders\\QueryBuilder.cs",
+              "RelativeToolTip": "Services\\Builders\\QueryBuilder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-01T18:38:26.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EndpointHelpers.cs",
+              "DocumentMoniker": "D:\\personal\\P\u00F3s Gardua\u00E7\u00E3o - Arquitetura de Software\\ProjetoAplicado\\Backend\\IntegracaoVindi\\IntegracaoVindi\\Services\\Vindi.Api\\Helpers\\EndpointHelpers.cs",
+              "RelativeDocumentMoniker": "Services\\Vindi.Api\\Helpers\\EndpointHelpers.cs",
+              "ToolTip": "D:\\personal\\P\u00F3s Gardua\u00E7\u00E3o - Arquitetura de Software\\ProjetoAplicado\\Backend\\IntegracaoVindi\\IntegracaoVindi\\Services\\Vindi.Api\\Helpers\\EndpointHelpers.cs",
+              "RelativeToolTip": "Services\\Vindi.Api\\Helpers\\EndpointHelpers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-01T18:14:48.334Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CustomerApi.cs",
+              "DocumentMoniker": "D:\\personal\\P\u00F3s Gardua\u00E7\u00E3o - Arquitetura de Software\\ProjetoAplicado\\Backend\\IntegracaoVindi\\IntegracaoVindi\\Services\\Vindi.Api\\Customers\\CustomerApi.cs",
+              "RelativeDocumentMoniker": "Services\\Vindi.Api\\Customers\\CustomerApi.cs",
+              "ToolTip": "D:\\personal\\P\u00F3s Gardua\u00E7\u00E3o - Arquitetura de Software\\ProjetoAplicado\\Backend\\IntegracaoVindi\\IntegracaoVindi\\Services\\Vindi.Api\\Customers\\CustomerApi.cs",
+              "RelativeToolTip": "Services\\Vindi.Api\\Customers\\CustomerApi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADwAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-01T17:05:07.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "VindiApi.cs",
+              "DocumentMoniker": "D:\\personal\\P\u00F3s Gardua\u00E7\u00E3o - Arquitetura de Software\\ProjetoAplicado\\Backend\\IntegracaoVindi\\IntegracaoVindi\\Services\\Vindi.Api\\VindiApi.cs",
+              "RelativeDocumentMoniker": "Services\\Vindi.Api\\VindiApi.cs",
+              "ToolTip": "D:\\personal\\P\u00F3s Gardua\u00E7\u00E3o - Arquitetura de Software\\ProjetoAplicado\\Backend\\IntegracaoVindi\\IntegracaoVindi\\Services\\Vindi.Api\\VindiApi.cs",
+              "RelativeToolTip": "Services\\Vindi.Api\\VindiApi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwCIAAACEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-01T16:53:21.067Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
